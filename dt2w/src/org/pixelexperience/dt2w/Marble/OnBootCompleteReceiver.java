@@ -1,4 +1,4 @@
-package org.pixelexperience.dt2w.Marble;
+package com.libremobileos.dt2w.Marble;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
